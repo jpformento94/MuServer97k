@@ -1,0 +1,3 @@
+//ServerCode	ServerName	ServerAddress		ServerPort	ServerType
+0		"Server 1"	"26.187.235.50"		55901		"SHOW"
+end
