@@ -366,3 +366,45 @@
 02:08:24 [JoinServerConnection] Disconnected
 02:08:26 [DataServerConnection] Disconnected
 02:08:27 [JoinServerConnection] Connect Failed
+02:26:11 [ServerInfo] ChaosMix loaded successfully
+02:26:11 [ServerInfo] Character loaded successfully
+02:26:11 [ServerInfo] Command loaded successfully
+02:26:11 [ServerInfo] Common loaded successfully
+02:26:11 [ServerInfo] Custom loaded successfully
+02:26:11 [ServerInfo] Event loaded successfully
+02:26:11 [ServerInfo] EventItemBag loaded successfully
+02:26:11 [ServerInfo] Hack loaded successfully
+02:26:11 [ServerInfo] Item loaded successfully
+02:26:11 [ServerInfo] Monster loaded successfully
+02:26:11 [ServerInfo] Move loaded successfully
+02:26:11 [ServerInfo] Quest loaded successfully
+02:26:11 [ServerInfo] Shop loaded successfully
+02:26:11 [ServerInfo] Skill loaded successfully
+02:26:11 [ServerInfo] Util loaded successfully
+02:26:12 [Blood Castle] (1) Sync Start Time. [93] min remain
+02:26:12 [Blood Castle] (1) SetState EMPTY
+02:26:12 [Blood Castle] (2) Sync Start Time. [93] min remain
+02:26:12 [Blood Castle] (2) SetState EMPTY
+02:26:12 [Blood Castle] (3) Sync Start Time. [93] min remain
+02:26:12 [Blood Castle] (3) SetState EMPTY
+02:26:12 [Blood Castle] (4) Sync Start Time. [93] min remain
+02:26:12 [Blood Castle] (4) SetState EMPTY
+02:26:12 [Blood Castle] (5) Sync Start Time. [93] min remain
+02:26:12 [Blood Castle] (5) SetState EMPTY
+02:26:12 [Blood Castle] (6) Sync Start Time. [93] min remain
+02:26:12 [Blood Castle] (6) SetState EMPTY
+02:26:12 [Devil Square] (1) Sync Start Time. [123] min remain
+02:26:12 [Devil Square] (1) SetState EMPTY
+02:26:12 [Devil Square] (2) Sync Start Time. [123] min remain
+02:26:12 [Devil Square] (2) SetState EMPTY
+02:26:12 [Devil Square] (3) Sync Start Time. [123] min remain
+02:26:12 [Devil Square] (3) SetState EMPTY
+02:26:12 [Devil Square] (4) Sync Start Time. [123] min remain
+02:26:12 [Devil Square] (4) SetState EMPTY
+02:26:12 [Bingo] Sync Start Time. [1204] min remain
+02:26:12 [Bingo] SetState EMPTY
+02:26:12 [JoinServerConnection] Connected
+02:26:12 [DataServerConnection] Connected
+02:26:41 [JoinServerConnection] Disconnected
+02:26:43 [DataServerConnection] Disconnected
+02:26:44 [JoinServerConnection] Connect Failed
