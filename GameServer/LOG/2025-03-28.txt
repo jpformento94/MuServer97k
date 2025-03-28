@@ -1,0 +1,41 @@
+11:01:31 [ServerInfo] ChaosMix loaded successfully
+11:01:31 [ServerInfo] Character loaded successfully
+11:01:31 [ServerInfo] Command loaded successfully
+11:01:31 [ServerInfo] Common loaded successfully
+11:01:31 [ServerInfo] Custom loaded successfully
+11:01:31 [ServerInfo] Event loaded successfully
+11:01:31 [ServerInfo] EventItemBag loaded successfully
+11:01:31 [ServerInfo] Hack loaded successfully
+11:01:31 [ServerInfo] Item loaded successfully
+11:01:31 [ServerInfo] Monster loaded successfully
+11:01:31 [ServerInfo] Move loaded successfully
+11:01:31 [ServerInfo] Quest loaded successfully
+11:01:31 [ServerInfo] Shop loaded successfully
+11:01:31 [ServerInfo] Skill loaded successfully
+11:01:31 [ServerInfo] Util loaded successfully
+11:01:31 [Blood Castle] (1) Sync Start Time. [58] min remain
+11:01:31 [Blood Castle] (1) SetState EMPTY
+11:01:31 [Blood Castle] (2) Sync Start Time. [58] min remain
+11:01:31 [Blood Castle] (2) SetState EMPTY
+11:01:31 [Blood Castle] (3) Sync Start Time. [58] min remain
+11:01:31 [Blood Castle] (3) SetState EMPTY
+11:01:31 [Blood Castle] (4) Sync Start Time. [58] min remain
+11:01:31 [Blood Castle] (4) SetState EMPTY
+11:01:31 [Blood Castle] (5) Sync Start Time. [58] min remain
+11:01:31 [Blood Castle] (5) SetState EMPTY
+11:01:31 [Blood Castle] (6) Sync Start Time. [58] min remain
+11:01:31 [Blood Castle] (6) SetState EMPTY
+11:01:31 [Devil Square] (1) Sync Start Time. [88] min remain
+11:01:31 [Devil Square] (1) SetState EMPTY
+11:01:31 [Devil Square] (2) Sync Start Time. [88] min remain
+11:01:31 [Devil Square] (2) SetState EMPTY
+11:01:31 [Devil Square] (3) Sync Start Time. [88] min remain
+11:01:31 [Devil Square] (3) SetState EMPTY
+11:01:31 [Devil Square] (4) Sync Start Time. [88] min remain
+11:01:31 [Devil Square] (4) SetState EMPTY
+11:01:31 [Bingo] Sync Start Time. [689] min remain
+11:01:31 [Bingo] SetState EMPTY
+11:01:31 [JoinServerConnection] Connected
+11:01:31 [DataServerConnection] Connected
+11:01:54 [JoinServerConnection] Disconnected
+11:01:56 [DataServerConnection] Disconnected
